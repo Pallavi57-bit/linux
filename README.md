@@ -73,3 +73,9 @@ Displays specific information about a file based on the provided option.
 
 ## Version History
 - Version: 0.1.0
+
+## Flowchart
+![image](https://github.com/Pallavi57-bit/linux/assets/84582015/abdf26bf-d628-415e-8a0b-79d1ea6f3037)
+![image](https://github.com/Pallavi57-bit/linux/assets/84582015/67f08c4f-4ffd-4d78-93cd-0764cf1cf614)
+
+
